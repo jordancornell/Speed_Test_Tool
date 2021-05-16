@@ -18,7 +18,7 @@ https://www.speedtest.net/apps/cli
 The following line needs to be added to my user crontab file to automate the running of the bash script
 
 
-\*/30 \* \* \* \* cd <path to directory> && ./run_speedtest.sh
+\*/30 \* \* \* \* cd \<*path to directory*\> && ./run_speedtest.sh
 
 
 
