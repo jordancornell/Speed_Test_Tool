@@ -31,4 +31,6 @@ The result is a log file, *connection_log.txt*, created in the same directory as
 
 The tool generates an output that looks like this:
 
+![Log Example](/images/Log_Example.png)
+
 Once this tool collects at least a few weeks worth of data, the next step will be an analytical tool to assess the average connection metrics throughout the day/week. Perhaps an alert could be issued to the user when the download speed falls below a certain threshold for a number of consecutive assessments. Perhaps even an automated complaint email delivered to my ISP's customer service department ;)
